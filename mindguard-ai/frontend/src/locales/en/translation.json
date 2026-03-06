@@ -1,0 +1,73 @@
+{
+    "nav": {
+        "title": "MindGuard AI",
+        "home": "Home",
+        "resources": "Resources",
+        "counseling": "Counseling",
+        "dashboard": "Dashboard",
+        "peerSupport": "Peer Support",
+        "defenceDashboard": "Defence Dashboard",
+        "logout": "Logout",
+        "language": "Language"
+    },
+    "home": {
+        "heroTitle": "Empowering {{role}} Mental Wellness",
+        "heroSubtitle": "AI-driven emotional support, psychological readiness screening, and proactive crisis intervention for {{role}}s.",
+        "getStarted": "Get Started",
+        "takeScreening": "Take Mental Health Screening",
+        "whyChoose": "Why Choose MindGuard AI?",
+        "features": {
+            "aiScreening": "AI Screening",
+            "aiScreeningDesc": "Advanced psychological profiling using conversational AI.",
+            "peerSupport": "Peer Support Groups",
+            "peerSupportDesc": "Safe, anonymous spaces to connect with peers facing similar challenges.",
+            "liveInteraction": "Live Interaction",
+            "liveInteractionDesc": "Real-time voice and video conversations for accurate assessments."
+        }
+    },
+    "dashboard": {
+        "title": "Your Wellness Dashboard",
+        "welcome": "Welcome back",
+        "currentStatus": "Current Status",
+        "readinessScore": "Readiness Score",
+        "riskLevel": "Risk Level",
+        "quickActions": "Quick Actions",
+        "startScreening": "Start Screening",
+        "joinPeerSupport": "Join Peer Support",
+        "talkToCounselor": "Talk to Counselor"
+    },
+    "peerSupport": {
+        "title": "Peer Support",
+        "subtitle": "Safe, anonymous space to share and support each other.",
+        "topics": "Topics",
+        "newDiscussion": "New Discussion",
+        "cancel": "Cancel",
+        "back": "Back to Discussions",
+        "noDiscussions": "No discussions found in this topic yet.",
+        "beTheFirst": "Be the first to start a conversation and support your peers.",
+        "form": {
+            "startDiscussion": "Start a New Discussion",
+            "title": "Title",
+            "titlePlaceholder": "Summarize your thoughts...",
+            "topic": "Topic",
+            "identity": "Identity",
+            "postAnonymously": "Post Anonymously",
+            "content": "Content",
+            "contentPlaceholder": "Share what's on your mind... (Please be respectful)",
+            "post": "Post",
+            "posting": "Posting..."
+        },
+        "postDetails": {
+            "replies": "Replies",
+            "noReplies": "No replies yet. Share some support!",
+            "addReply": "Add a Reply",
+            "replyPlaceholder": "Write an encouraging reply...",
+            "replyAnonymously": "Reply Anonymously",
+            "reply": "Reply"
+        },
+        "alerts": {
+            "aiSafetyAlert": "AI Safety Alert",
+            "seekHelp": "Seek Professional Help"
+        }
+    }
+}
