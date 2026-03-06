@@ -1,0 +1,44 @@
+.\venv\Scripts\python : C:
+\Users\ranve\OneDrive\Desk
+top\stack members\mindguar
+d-ai\backend\test_gemini.p
+y:1: FutureWarning: 
+At line:1 char:1
++ .\venv\Scripts\python 
+test_gemini.py 2>&1 > 
+error_log.txt
++ ~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~
+    + CategoryInfo        
+      : NotSpecified: (C  
+  :\Users\ranve\...Futu   
+ reWarning: :String) [    
+], RemoteException
+    + FullyQualifiedError 
+   Id : NativeCommandErr  
+  or
+ 
+
+All support for the 
+`google.generativeai` 
+package has ended. It 
+will no longer be 
+receiving 
+updates or bug fixes. 
+Please switch to the 
+`google.genai` package as 
+soon as possible.
+See README for more 
+details:
+
+https://github.com/google-
+gemini/deprecated-generati
+ve-ai-python/blob/main/REA
+DME.md
+
+  import 
+google.generativeai as 
+genai
+FAILED
+NotFound('models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.')
